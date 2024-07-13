@@ -1,0 +1,9 @@
+/* selector */
+p {
+    /* rule */
+    /* property value */
+    color: red;
+    background-color: rgb(237, 202, 106);
+}
+/* ruleset */
+/* select all p tags and apply the given rules, i.e. apply color as red */
